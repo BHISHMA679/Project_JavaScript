@@ -1,5 +1,4 @@
 console.log("Lets start a new JavaScript Journey");
-//ok that wasnt working but was a good try
 
 const profile = {
   Photo: "Standard_photo",
